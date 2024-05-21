@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".El_chico_y_la_garza"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_marginTop="50dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tituloniñogarza"
+        android:textSize="45sp"
+        ></TextView>
+
+    <ImageView
+        android:layout_width="392dp"
+        android:layout_height="228dp"
+        android:src="@drawable/el_chico_yla_garza">
+
+    </ImageView>
+
+
+    <ImageView
+
+        android:id="@+id/volumen"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:src="@drawable/volumen"
+        >
+
+    </ImageView>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="273dp"
+        android:text="@string/infoniñogarza"
+        android:textSize="15sp">
+
+    </TextView>
+
+
+</LinearLayout>

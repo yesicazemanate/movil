@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".calculadora"
+    android:orientation="vertical">
+    <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="ListViewz"
+        android:layout_gravity="start"
+        android:layout_marginTop="30dp"
+        android:textSize="40dp">
+
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="VENTA DE PRODUCTOS"
+        android:textSize="35dp"
+        >
+
+    </TextView>
+    <RadioGroup
+        android:id="@+id/electrodomestico"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <RadioButton
+            android:id="@+id/Televisor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Televisor"
+            android:textSize="20sp"
+            ></RadioButton>
+        <RadioButton
+            android:id="@+id/Radio"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Radio"
+            android:textSize="20sp"
+            ></RadioButton>
+
+    </RadioGroup>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/precio"
+        android:inputType="number"
+        android:text="0"
+        android:textSize="40sp"></EditText>
+<CheckBox
+    android:id="@+id/descuentodiez"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Descuento 10%"
+    android:textSize="30sp"
+    >
+
+</CheckBox>
+<EditText
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/descuento"
+    android:inputType="number"
+    android:text="0"
+    android:textSize="40sp">
+
+</EditText>
+
+    <Button
+        android:id="@+id/calcular"
+        android:layout_width="400dp"
+        android:layout_height="60dp"
+        android:text="calcular"
+        android:textSize="30sp">
+
+    </Button>
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/result"
+        android:inputType="number"
+        android:text="0"
+        android:textSize="40sp">
+
+    </EditText>
+
+
+
+</LinearLayout>

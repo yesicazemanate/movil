@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".seleccion2"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Seleccion de controles 2"
+        android:layout_gravity="center"
+        android:textSize="30dp">
+
+    </TextView>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Seleccione e o los idiomas que habla"
+        android:layout_gravity="center"
+        android:textSize="30dp">
+
+    </TextView>
+    <CheckBox
+        android:id="@+id/español"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Español">
+
+
+    </CheckBox>
+    <CheckBox
+        android:id="@+id/ingles"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ingles">
+
+
+    </CheckBox>
+    <CheckBox
+        android:id="@+id/italiano"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Italiano">
+
+
+    </CheckBox>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Seleccione Genero"
+        android:layout_gravity="center"
+        android:textSize="30dp">
+
+    </TextView>
+    <RadioGroup
+        android:id="@+id/rgGenero"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <RadioButton
+            android:id="@+id/rbFemenino"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Femenino"
+            >
+
+        </RadioButton>
+        <RadioButton
+            android:id="@+id/rbMasculino"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Masculino"
+            >
+
+        </RadioButton>
+    </RadioGroup>
+</LinearLayout>

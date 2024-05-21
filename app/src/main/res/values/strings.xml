@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Controles De Seleccion</string>
+    <string-array name="frutas">
+        <item>Banano</item>
+        <item>Pera</item>
+        <item>Mango</item>
+        <item>Maracuya</item>
+        <item>Guanabana</item>
+
+    </string-array>
+    <string-array name="peliculas">
+        <item>Rapido y fruriosos I</item>
+        <item>Rapido y fruriosos II</item>
+        <item>Rapido y fruriosos III</item>
+        <item> Roja, blanca y Sangre azul</item>
+        <item>Cenicienta</item>
+    </string-array>
+    <string name="tituloprindesaysapo">lA PRINCESA Y EL SAPO </string>
+    <string name="inforpincesaysapo">"La princesa y el sapo" es una película animada producida por Walt Disney Animation Studios y lanzada en 2009. Dirigida por Ron Clements y John Musker, es la primera película de Disney en presentar a una princesa afroamericana, Tiana.
+        La historia está ambientada en la ciudad de Nueva Orleans durante la década de 1920. Tiana es una joven camarera con un sueño: abrir su propio restaurante. Un encuentro inesperado con un príncipe convertido en sapo debido a un hechizo la lleva a una aventura mágica a través de los pantanos de Luisiana.</string>
+    <string name="titulotransformer">
+    TRANSFORMERS
+</string>
+    <string name="infotransfromers">Las películas de Transformers son una serie de películas de acción y ciencia ficción dirigidas por Michael Bay y producidas por Steven Spielberg. La franquicia cinematográfica se inició en 2007 con "Transformers" y ha generado varias secuelas, incluyendo "Transformers: La venganza de los caídos" (2009), "Transformers: El lado oscuro de la luna" (2011), "Transformers: La era de la extinción" (2014), "Transformers: El último caballero" (2017) y "Bumblebee" (2018). Estas películas son conocidas por sus impresionantes efectos visuales, grandes escenas de acción y el enfoque en los personajes de los Autobots y Decepticons.</string>
+
+    <string name="tituloniñogarza">EL NIÑO Y LA GARZA </string>
+    <string name="infoniñogarza">"El niño y la garza" es un cortometraje de animación dirigido por el cineasta colombiano Jorge Mario Escobar. Este corto cuenta la historia de un niño que encuentra una garza herida y decide cuidarla hasta que pueda volar de nuevo. La película explora temas como la amistad, el cuidado de los animales y la conexión con la naturaleza. "El niño y la garza" ha sido elogiado por su emotiva narrativa y su belleza visual, y ha recibido reconocimiento tanto a nivel nacional como internacional en festivales de cine.</string>
+    <string name="tituloit">IT EL PAYASO</string>
+    <string name="infoit">"It" es una película de terror basada en la novela del mismo nombre escrita por Stephen King. Dirigida por Andy Muschietti, la película sigue la historia de un grupo de niños en la ciudad de Derry, Maine, que se enfrentan a un ente malévolo que toma la forma de Pennywise, un payaso aterrador. La película está ambientada tanto en la década de 1980 como en la de 1950, explorando el enfrentamiento de los personajes con sus miedos personales y sus traumas infantiles. "It" ha sido elogiada por sus actuaciones, especialmente la de Bill Skarsgård como Pennywise, así como por su atmósfera inquietante y su capacidad para generar tensión y sustos efectivos.</string>
+    <string name="titulogoblin">GOBLIN</string>
+    <string name="infogoblin">"Goblin", también conocido como "Guardian: The Lonely and Great God", es un popular drama coreano (KDrama) que combina elementos de fantasía, romance y drama. La serie sigue la historia de Kim Shin, un ser inmortal conocido como un "goblin", y Ji Eun-tak, una joven que tiene la habilidad de ver fantasmas. Kim Shin busca a su futura esposa, cuyo destino está conectado con el suyo, mientras que Ji Eun-tak trata de descubrir su propósito en la vida. La serie explora temas como la redención, el destino y el amor verdadero, y ha sido elogiada por su narrativa cautivadora, sus impresionantes paisajes y las actuaciones de su elenco, que incluye a Gong Yoo, Kim Go-eun y Lee Dong-wook. "Goblin" ha sido muy popular tanto en Corea como internacionalmente desde su estreno en 2016.</string>
+
+</resources>
